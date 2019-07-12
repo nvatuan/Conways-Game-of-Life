@@ -1,5 +1,6 @@
 # Status
 It's done, after not more than 3 hours this small project is finished.
+i added in some features, include quotes and stuffs
 
 # Screenshot
 ![DATA](https://github.com/nvatuan/Conways-Game-of-Life_mytake/blob/master/2019-07-13-02-23-18.gif?raw=true)
