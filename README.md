@@ -2,9 +2,7 @@
 It's done, after not more than 3 hours this small project is finished.
 
 # Screenshot
-![DATA](https://github.com/nvatuan/Conways-Game-of-Life_mytake/blob/master/screenshot.png?raw=true)
-
-![DATA](https://github.com/nvatuan/Conways-Game-of-Life_mytake/blob/master/2019-07-12-21-07-35.webm)
+![DATA](https://github.com/nvatuan/Conways-Game-of-Life_mytake/blob/master/2019-07-13-02-12-59.gif)
 
 # Postscript
 [One thing blew my mind is how creative you can be with Conway's.](http://golly.sourceforge.net/)
