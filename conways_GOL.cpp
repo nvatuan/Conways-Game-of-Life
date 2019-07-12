@@ -52,7 +52,7 @@ bool repFlag = 0;
 // -- Misc.
 std::vector< std::vector< std::string > > quotesAboutImmortality {
 	{"\"That man has reached immortality", "who is disturbed by nothing material.\""},
-	{"\"Man that never dies doesn't truely lives.\""},
+	{"\"Man that never dies doesn't truely live.\""},
 	{"\"We turn not older with years, but newer every day.\""},
 	{"\"Is a repeated life worth living?\""},
 	{"\"Oh how wrong we were to think immortality meant never dying.\""},
@@ -69,7 +69,7 @@ std::vector< std::vector< std::string > > quotesAboutDeath {
 	{"\"Three can keep a secret, if two of them are dead.\""},
 	{"\"i might look fly but inside i just want to die\""},
 	{"\"Death is not the opposite of life, but part of it.\"",},
-	{"\"I like sleeping. It's the closest to dead that I can ever be.\""},
+	{"\"I like sleeping. It's the closest to death that I can ever be.\""},
 	{"\"People like us aren't qualified to be involved", "in a dramatic incident such as a suicide.", "No matter how depressed you are or how much pain you're in,", "you have to return to your routine, daily life.", "Even if you don't come back, you'll just end up dying in vain.", "A dramatic death isn't befitting of us.\""}
 };
 int quoteID_death = -1;
