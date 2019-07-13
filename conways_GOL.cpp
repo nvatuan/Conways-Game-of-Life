@@ -142,7 +142,7 @@ void checkCurrentHash(){
 		for(unsigned iy = startY; iy <= endY; iy++){
 			Hash <<= 1;
 			Hash += cell[ix][iy];
-			Hash %= 9999999967; //prime
+			Hash %= 1011001110001111; //prime
 		}
 	//
 	if(Hashes.find(Hash) == Hashes.end()) Hashes.insert(Hash);
